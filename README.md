@@ -1,5 +1,3 @@
-<img width="640" height="383" alt="image" src="https://github.com/user-attachments/assets/43aebf29-d115-499f-a90c-08e4303f8a3d" />
-
 <p align="center">
 This PowerShell script is a comprehensive tool for manipulating WIM/ESD and ISO images. It offers an interactive and easy-to-use interface with the following functionalities:
 </p>
